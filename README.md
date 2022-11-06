@@ -2,44 +2,44 @@
 
 Admin Functions
 
-Manage Staff
+-Manage Staff
 •	Register staff
 •	Update staff
 •	Delete staff
 •	Login staff
 •	Logout staff
-Manage Supplier
+-Manage Supplier
 •	Record supplier
 •	Update supplier
 •	Delete supplier
 •	Record product 
-Manage Product
+-Manage Product
 •	Register product 
 •	Update product 
 •	Delete product 
 •	Record product 
-Manage Brand
+-Manage Brand
 •	Register brand
 •	Update brand
 •	Delete brand
 •	Record brand
-Manage Category
+-Manage Category
 •	Register category
 •	Update category
 •	Delete category
 •	Record category
-Manage Delivery info
+-Manage Delivery info
 •	Register delivery info
 •	Update delivery info
 •	Delete delivery info
 •	Record delivery info
-Manage Orders
+-Manage Orders
 •	Register order
 •	Update order
 •	Delete order
 •	Search order
 •	Record order
-Manage Purchase Order
+-Manage Purchase Order
 •	Register purchase order
 •	Update purchase order
 •	Delete purchase order
@@ -53,7 +53,7 @@ Customer Functions
 •	View product 
 •	Make checkout
 •	View order
-Manage Customer
+-Manage Customer
 •	Register customer
 •	Update customer
 •	Delete customer
